@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  padding: 0;
+  margin: 0;
+}
+body {
+  background: #5f9ea0;
+  font-size: 1.6em;
+}
+p {
+  margin: 20px 0;
+}
